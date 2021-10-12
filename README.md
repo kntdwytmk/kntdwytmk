@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Nama :  KUNTO ADI WIYATMOKO
+NIM  :  21.21.1542
+
 <!--
 **kntdwytmk/kntdwytmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
